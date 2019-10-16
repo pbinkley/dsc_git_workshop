@@ -40,3 +40,5 @@ Part Three (30 minutes):
 
 Forking (reveal.js) and Github Pages (first from the command line, then through the wizard).
 
+Questions:
+How to integrate ACRL framework principles? As someone who doesn't do teaching or information literacy I'm unclear as to how to go about this.
