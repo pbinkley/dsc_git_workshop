@@ -10,7 +10,7 @@ Concepts:
 
 Difference between git and github (when would you use either?)
 
-Part Two A(40 minutes):
+Part Two A (40 minutes):
 ======================
 
 Basic git workflow (without github) (command line or GUIs?)
