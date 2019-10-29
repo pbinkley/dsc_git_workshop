@@ -51,7 +51,7 @@ Part One: Concepts
    revisions, and sideways between versions.
    
    Spatial Metaphors:
-   
+<pre>   
    |--------|----------|-----------------|---|----------|----|-------------
    1        2          3                 4   5          6    7
    
@@ -59,7 +59,7 @@ Part One: Concepts
    ------------------------------------------------------------------------
    |                |                   |                  |
    For students     For faculty         For the media      For the public
-   
+</pre>
    [Exercise 1](exercises/exercise1.md)
    
 4. Branching
