@@ -11,4 +11,11 @@ Exercise 1
      contains two sentences.*
    * At the command line, type *git add exercise1.txt*
    * Type *git commit "Add sentence to file"*
-   * Type *git hist*
+   * Type *git hist* - What does it say? Note the code in the first
+     column of each line: that's a [hexadecimal
+     number](https://en.wikipedia.org/wiki/Hexadecimal) (base 16) used
+     as an identifier for a particular revision.
+   * Type *git co <first code>*
+   * Take a look at your *exercise1* file, it should only have the first
+     sentence.
+     
