@@ -63,5 +63,18 @@ Part One: Concepts
    [Exercise 1](exercises/exercise1.md)
    
 4. Branching
-5. Collaboration
+
+   Your commmit history shows you the revisions - backwards and forwards
+   \- in a single line of revisions (see spatial metaphors above). But in
+     addition to a single, sequential set of changes, you can make
+     horizontal changes. Horizontal versions occupy different
+     *branches*, each with its own revision history. So you can see how
+     the two spatial metaphors above can actually intersect, with sets
+     of horizontal changes occupying different branches within a given
+     project, with sequential histories running backwards and forwards
+     along each branch.
+     
+     [Exercise 2](exercise2.md)
+     
+6. Collaboration
 
