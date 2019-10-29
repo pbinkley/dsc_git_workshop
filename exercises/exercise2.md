@@ -11,3 +11,9 @@ Exercise 2
 * Type *git add new_branch.txt*
 * Type *git commit -m "Add new_branch.txt"*
 * Type *git co master* - the file new_branch.txt should be gone.
+* Type *git merge new_branch* - the file should now appear.
+* Type *git rm new_branch.txt* 
+  Type *git branch -D new_branch*
+  
+  Conceots: branches, creating a new branch with *co -B*, moving between
+  branches, merging branches, deleting branches, deleting files.
