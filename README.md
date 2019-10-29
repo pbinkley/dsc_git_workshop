@@ -50,6 +50,16 @@ Part One: Concepts
    *versions*. In both cases you can move back and forth between
    revisions, and sideways between versions.
    
+   Spatial Metaphors:
+   
+   |--------|----------|-----------------|---|----------|----|-------------
+   1        2          3                 4   5          6    7
+   
+                                       |
+   ------------------------------------------------------------------------
+   |                |                   |                  |
+   For students     For faculty         For the media      For the public
+   
    [Exercise 1](exercises/exercise1.md)
    
 4. Branching
