@@ -62,7 +62,7 @@ Part One: Concepts
 </pre>
    [Exercise 1](exercises/exercise1.md)
    
-4. Branching
+1. Branching
 
    Your commmit history shows you the revisions - backwards and forwards
    \- in a single line of revisions (see spatial metaphors above). But in
@@ -74,7 +74,20 @@ Part One: Concepts
      project, with sequential histories running backwards and forwards
      along each branch.
      
-     [Exercise 2](exercise2.md)
+     [Exercise 2](exercises/exercise2.md)
      
-6. Collaboration
+2. Collaboration
+
+    Committing, branching, and merging means that multiple people can
+    work on the same project (even the same files) at once. Git's
+    merging system is able to reconcile different changes to the various
+    files. If you get a conflict, the system warns you and gives you a
+    chance to fix them. It's possible to do this kind of decentralized
+    collaboration just using git, but in practice most people centralize
+    their projects in a repository on GitHub, making it easier to
+    conceptualize *where* revisions are stored and changes are made. We
+    will look at working with/in GitHub in the next section, but first
+    we will do some more work just within git to get used to it.
+    
+    [Exercise 3](exercises/exercise3.md)
 
