@@ -1,7 +1,7 @@
 Exercise 3
 ==========
 
-* Download the test metadata record set from the [here](records/) and add them to
+* Download the test metadata record set from the [here](../records/) and add them to
   your repository directory, then commit them with an appropriate
   message.
 * Delete exercise1.txt from your repostory and commit the change.
