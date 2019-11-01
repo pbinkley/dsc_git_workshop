@@ -16,11 +16,11 @@ Part Two A (40 minutes):
 Basic git workflow (without github) (command line or GUIs?)
 
 (Hands on project: small collection of documents \[metadata records?] - get record set to share). 
-- initializing
-- adding/removing documents
-- making changes, committing changes
-- reverting changes
-- branching merging.
+- initializing (done)
+- adding/removing documents (done)
+- making changes, committing changes (done)
+- branching merging (done)
+- reverting changes and history (done)
 
 ***10 minute break***
 
