@@ -35,6 +35,7 @@ happens when you try that. Instead, you have to tell git to remove the
 file (with *git rm*) and then commit that change.
 
 [Exercise 7: Branching and Merging](exercises/exercise7.md)
+-----------------------------------------------------------
 
 When you are making changes to multiple files that are all part of a
 single large change you are making to your project, such as adding a new
@@ -47,6 +48,7 @@ changes are made to the master branch that you want to incorporate into
 your branch, then you can merge the master branch with your branch.
 
 [Exercise 8: Reverting Changes and History](exercises/exercise8.md)
+-------------------------------------------------------------------
 
 Sometimes you make changes by mistake or that you change your mind
 about. In order to undo those changes after you have committed them, you
