@@ -6,7 +6,7 @@ Exercise 1
    * At the command line, move to the directory you created
    * Type *git init*
    * Type *git add exercise1.txt*
-   * Type *git commit "Add first text file."*
+   * Type *git commit -m "Add first text file."*
    * Edit your file again and add the following sentence: *Now this file
      contains two sentences.*
    * At the command line, type *git add exercise1.txt*
@@ -15,10 +15,10 @@ Exercise 1
      column of each line: that's a [hexadecimal
      number](https://en.wikipedia.org/wiki/Hexadecimal) (base 16) used
      as an identifier for a particular revision.
-   * Type *git co <bottom-most code>*
+   * Type *git checkout <bottom-most code>*
    * Take a look at your *exercise1* file, it should only have the first
      sentence.
-   * Type *git co master* and look at your file again, the second
+   * Type *git checkout master* and look at your file again, the second
      sentence should be back again.
     
     Concepts: commit, commit message, history, checkout, HEAD, master.
