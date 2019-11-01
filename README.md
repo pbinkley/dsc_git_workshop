@@ -12,3 +12,4 @@ Prerequisites:
 - Git installed on your laptop.
 
 [Part One: Concepts](lesson_one.md)
+[Part Two: Git Workflow](lesson_two.md)
