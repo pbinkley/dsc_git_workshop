@@ -5,6 +5,7 @@ Exercise 1
      the only sentence in the file.*
    * At the command line, move to the directory you created
    * Type *git init*
+   * Save [this file](/.gitconfig) into the directory.
    * Type *git add exercise1.txt*
    * Type *git commit -m "Add first text file."*
    * Edit your file again and add the following sentence: *Now this file
