@@ -6,7 +6,7 @@ Exercise 2
 * Type *git add master.txt*
 * Type *git commit -m "Add master.txt"*
 * Type *git checkout -B new_branch*
-* Type *git checkout branch* to list available branches: master and new_branch
+* Type *git branch* to list available branches: master and new_branch
 * Create a third text file called "new_branch.txt"
 * Type *git add new_branch.txt*
 * Type *git commit -m "Add new_branch.txt"*
