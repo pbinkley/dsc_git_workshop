@@ -13,4 +13,6 @@ Prerequisites:
 
 [Part One: Concepts](lesson_one.md)
 
-[Part Two: Git Workflow](lesson_twoA.md)
+[Part Two A: Git Workflow](lesson_twoA.md)
+
+[Part Two B: Adding GitHub](lesson_twoB.md)
