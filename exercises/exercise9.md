@@ -16,16 +16,22 @@ Exercise 9: Creating a GitHub account and repository.
    notice:
    - "Get started by creating a new file or uploading an existing file.
      We recommend every repository include a README, LICENSE, and
-     .gitignore." A README gets displayed on the main page of your
+     .gitignore." 
+     
+     A README gets displayed on the main page of your
      repository (take a look at [this workshop's
      repository](https://github.com/ualbertalib/dsc_git_workshop). The
      box below the list of files contains the contents of the README.md
-     file. A LICENSE can be one of a number of software licenses. GitHub
+     file. 
+     
+     A LICENSE can be one of a number of software licenses. GitHub
      gives you a list to choose from or you can supply your own.
      Licenses are beyond the scope of this workshop. There are plenty of
      articles explaining licenses, including this [Wikipedia
      article](https://en.wikipedia.org/wiki/Software_license) and [this
-     page from GitHub](https://choosealicense.com/). A .gitignore file
+     page from GitHub](https://choosealicense.com/). 
+     
+     A .gitignore file
      tells git not to track certain files (e.g. password files, local
      configuration files). They're useful for not cluttering up your
      project with files specific to your computer or workflow, and for
