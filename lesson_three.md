@@ -9,7 +9,7 @@ I use the two kinds of pages on my website. The user-level page has a
 **username.github.io** URL (e.g.
 [https://redlibrarian.github.io](https://redlibrarian.github.io)), while
 project-level pages has a **username.github.io/repository** URL (e.g.
-[https://redlibrarian.github.io/open-ideas-2019](https://redlibrarian.github.io/open-ideas-2019]).
+[https://ualbertalib.github.io/](https://ualbertalib.github.io/).
 
 You *can* do some of the setup for a github page in the GitHub settings
 section, but I find it easier to manage from the director you're working
