@@ -1,5 +1,5 @@
-Exercise 10: Issues, Pull Requests, Settings
-============================================
+Exercise 10: Issues
+===================
 
 1. Click on the Issues tab, then New Issue to create an issue.
 2. Enter a title and a description and hit submit. Notice the options on
