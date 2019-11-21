@@ -20,5 +20,5 @@ Exercise 10: Issues
    GitHub. You should see that your issue was closed, with a link to the
    commit that closed it.
 8. Notice that you can make simple changes and commits within GitHub itself. Find the file you just committed on the **Code** tab, and click on it to view. Then click on the edit button (pencil) at the top right hand corner of the view window, make some changes to the file.
-9. At the bottom of the window, there is a box where you can type a commit message, and then a submit button. Enter a message and then hit **submit**.
+9. At the bottom of the window, there is a box where you can type a commit message, and then a "commit changes" button. Enter a message and then hit **Commit Changes**.
    
