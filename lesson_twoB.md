@@ -18,8 +18,7 @@ Issues are ways to track problems to be solved, features to be added, or
 can be used as to-do lists. One of the useful features of Issues is that
 you can link them to particular changes in your project. 
 
-[Exercise 10: Issues, Pull Requests, and
-Settings](exercises/exercise10.md)
+[Exercise 10: Issues](exercises/exercise10.md)
 
 We won't do a hand's on exercise for Pull Requests. But it's good to
 know what they are. Let's say you're collaborating on a project and each
