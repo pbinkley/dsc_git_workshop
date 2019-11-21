@@ -16,3 +16,5 @@ Prerequisites:
 [Part Two A: Git Workflow](lesson_twoA.md)
 
 [Part Two B: Adding GitHub](lesson_twoB.md)
+
+[Part Three: GitHub Pages and Static Sites]
