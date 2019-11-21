@@ -15,8 +15,7 @@ Exercise 10: Issues
 4. Return to your project directory and create a new file containing
    some text. 
 5. Enter **git add .**
-6. Enter **git commit -m "Closes #<whatever issue number was
-   assigned>"**
+6. Enter **git commit -m "Closes #whatever-issue-number-was-assigned"**
 7. Enter **git push origin master**. Now check your issues list in
    GitHub. You should see that your issue was closed, with a link to the
    commit that closed it.
