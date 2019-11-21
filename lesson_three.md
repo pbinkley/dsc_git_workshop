@@ -17,5 +17,13 @@ in.
 
 [Exercise 11: Your First GitHub Page](exercises/exercise11.md)
 
+You can make GitHub pages as elaborate as you like, except that they
+have to be static (i.e. they can't be backed by a database, and they
+can't use server-side scripting, like PHP). There are many sophisticated
+static-site generators you can use, like [Jekyll](https://jekyllrb.com/)
+and [Hugo](https://gohugo.io/). If you're interested in minimal
+computing and digital libraries, you can deploy a [Wax
+site](https://minicomp.github.io/wax/) (which uses Jekyll) to GitHub
+pages. 
 
 2. Static Sites with Jekyll
