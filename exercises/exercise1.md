@@ -11,7 +11,7 @@ Exercise 1
    * Edit your file again and add the following sentence: *Now this file
      contains two sentences.*
    * At the command line, type *git add exercise1.txt*
-   * Type *git commit "Add sentence to file"*
+   * Type *git commit -m "Add sentence to file"*
    * Type *git hist* - What does it say? Note the code in the first
      column of each line: that's a [hexadecimal
      number](https://en.wikipedia.org/wiki/Hexadecimal) (base 16) used
