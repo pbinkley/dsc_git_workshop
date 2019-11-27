@@ -3,9 +3,10 @@ Exercise 1
    * Create a directory
    * Make a text file in that directory called "exercise1.txt" containing the sentence: *This is
      the only sentence in the file.*
-   * Make a second text file in the directory which contains the following lines (copy and past these lines):
+   * Make a second text file called ".gitconfig" in the directory which contains the following lines (copy and past these lines):
    ```[alias]
           hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+   ```
 
    * At the command line, move to the directory you created
    * Type *git init*
