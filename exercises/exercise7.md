@@ -12,6 +12,6 @@ Exercise 7: Branching and Merging
 6. Type *git checkout master*
 7. Type *git merge my_branch* and verify that my_branch.txt is now
    present in your master branch
-9. Type *git history* to see the branch/merge
+9. Type *git hist* to see the branch/merge
 10. Type *git branch -D my_branch*
 11. Type *git branch* to verify that my_branch is gone
