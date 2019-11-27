@@ -4,8 +4,9 @@ Exercise 1
    * Make a text file in that directory called "exercise1.txt" containing the sentence: *This is
      the only sentence in the file.*
    * Make a second text file called ".gitconfig" in the directory which contains the following lines (copy and past these lines):
-   ```[alias]
-          hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+   ```
+   [alias]
+       hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
    ```
 
    * At the command line, move to the directory you created
@@ -27,4 +28,4 @@ Exercise 1
    * Type *git checkout master* and look at your file again, the second
      sentence should be back again.
     
-    Concepts: commit, commit message, history, checkout, HEAD, master.
+ Concepts: commit, commit message, history, checkout, HEAD, master.
