@@ -10,7 +10,8 @@ Exercise 7: Branching and Merging
 4. Type *git add my_branch.txt*
 5. Type *git commit -m "Add text file for my branch."*
 6. Type *git checkout master*
-7. Type *git merge my_branch* and verify that my_branch.txt is now
+7. Type *git merge my_branch*.
+8. Type *ls* to verify that my_branch.txt is now
    present in your master branch
 9. Type *git hist* to see the branch/merge
 10. Type *git branch -D my_branch*
