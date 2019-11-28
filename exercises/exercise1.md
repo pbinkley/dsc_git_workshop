@@ -1,7 +1,7 @@
 Exercise 1
 ==========
    * Create a directory
-   * Make a text file in that directory called "exercise1.txt" containing the sentence: *This is
+   * Anyway you know how, make a text file in that directory called "exercise1.txt" containing the sentence: *This is
      the only sentence in the file.*
    * Make a second text file called ".gitconfig" in the directory which contains the following lines (we will walk through this step in the workshop):
    ```
