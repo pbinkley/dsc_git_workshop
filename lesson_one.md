@@ -49,7 +49,8 @@ Part One: Concepts
    |                |                   |                  |
    For students     For faculty         For the media      For the public
 </pre>
-     [Exercise 1](exercises/exercise1.md)
+
+   [Exercise 1](exercises/exercise1.md)
    
 3. Branching
 
