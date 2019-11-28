@@ -1,0 +1,8 @@
+
+Action                         Mac/Linux/Unix          Windows
+Change directory               cd                      cd 
+Move up one directory          cd ..                   cd ..
+Get directory listing          ls                      ls or dir
+Where am I?                    pwd                     cd
+Make new directory             mkdir                   mkdir
+Make new file                  touch                   touch
