@@ -49,9 +49,9 @@ Part One: Concepts
    |                |                   |                  |
    For students     For faculty         For the media      For the public
 </pre>
-   [Exercise 1](exercises/exercise1.md)
+     [Exercise 1](exercises/exercise1.md)
    
-1. Branching
+3. Branching
 
    Your commmit history shows you the revisions - backwards and forwards
    \- in a single line of revisions (see spatial metaphors above). But in
@@ -65,7 +65,7 @@ Part One: Concepts
      
      [Exercise 2](exercises/exercise2.md)
      
-2. Collaboration
+4. Collaboration
 
     Committing, branching, and merging means that multiple people can
     work on the same project (even the same files) at once. Git's
