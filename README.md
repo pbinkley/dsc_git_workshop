@@ -17,4 +17,4 @@ Prerequisites:
 
 [Part Two B: Adding GitHub](lesson_twoB.md)
 
-[Part Three: GitHub Pages and Static Sites]
+[Part Three: GitHub Pages and Static Sites](lesson_three.md)
