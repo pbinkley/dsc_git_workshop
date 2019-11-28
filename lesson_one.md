@@ -13,7 +13,7 @@ Part One: Concepts
    document or set of documents) or "horizontal" (i.e. functional
    changes made to a document or set of documents). The difference
    between these two concepts is that sequential differences can be
-   understood as changes made to the same objecti (though beware of the
+   understood as changes made to the same object (though beware of the
    [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
    problem)., and revisions can be
    understood as iterative. Two move through different revisions, think
