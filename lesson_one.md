@@ -3,7 +3,7 @@ Part One: Concepts
 
 1. What is git?
 
-   [git](https://en.wikipedia.org/wiki/Git) is a "distributed version control system for for tracking changes in source code during software development". Basically, what this means is that git can be used similarly to the "track changes" function in word: keeping track of any changes made to a file or set of files and allowing you to revisit previous iterations of those files. Initially developed for programming source code, git can be used to track any kind of file, though it works best with plain text files (course code, HTML, mardkown, etc). 
+   [git](https://en.wikipedia.org/wiki/Git) is a "distributed version control system for for tracking changes in source code during software development". Basically, what this means is that git can be used similarly to the "track changes" function in word: keeping track of any changes made to a file or set of files and allowing you to revisit previous iterations of those files. Initially developed for programming source code, git can be used to track any kind of file, though it works best with plain text files (course code, HTML, markdown, etc). 
 
 3. Version/revisionControl
 
